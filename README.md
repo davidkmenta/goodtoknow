@@ -2,6 +2,7 @@
 
 ## Flow
 * [Why should I write good commit messages?](https://medium.com/swlh/why-should-i-write-good-commit-messages-e15d37bf45cb) 🇬🇧
+* [Imperative mood and ...](https://cbea.ms/git-commit/) 🇬🇧
 * [Git: fixup!](https://filip-prochazka.com/blog/git-fixup) 🇨🇿
 * [Best practices for naming Git branches](https://graphite.dev/guides/git-branch-naming-conventions) 🇬🇧
     * \+ Integration branches when there's just a single environment where devs/owners can test (eg: `integration/{YYYY}-{MM}-{DD}`)
