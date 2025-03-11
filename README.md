@@ -11,6 +11,7 @@
 * [Is it a DTO or a Value Object?](https://matthiasnoback.nl/2022/09/is-it-a-dto-or-a-value-object/) 🇬🇧
 * [When to declare classes final?](https://ocramius.github.io/blog/when-to-declare-classes-final/) 🇬🇧
 * [Principy objektově orientovaného návrhu](https://zdrojak.cz/serialy/principy-objektove-orientovaneho-navrhu/) 🇨🇿
+* [Parsing time in Go 😳](https://www.willem.dev/articles/how-to-parse-time-date/) 🇬🇧
 
 ## Fun
 * [Return true to win (PHP)](https://returntrue.win/)
